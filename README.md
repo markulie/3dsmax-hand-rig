@@ -12,13 +12,29 @@ This rig was originally made in **2015** as a personal project and is now releas
 
 ## Preview
 
-![Hand Poses](1.png)
+![Hand Poses](handrig_01.png)
 
-![Rig Overview](images/mark_hunanyan_handrig_02.jpg)
+![Rig Overview](handrig_02.jpg)
 
-![Rendered Hand](images/mark_hunanyan_handrig_03.jpg)
+![Hand 1](1.png)
 
-![Hand Close-up](images/markhunanyan_handrig.jpg)
+![Hand 1](2.png)
+
+![Hand 1](3.png)
+
+![Hand 1](4.png)
+
+![Hand 1](5.png)
+
+![Hand 1](6.png)
+
+![Hand 1](7.png)
+
+![Hand 1](8.png)
+
+![Hand 1](9.png)
+
+![Hand 1](10.png)
 
 ---
 
