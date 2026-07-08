@@ -16,26 +16,6 @@ This rig was originally made in **2015** as a personal project and is now releas
 
 ![Rig Overview](handrig_02.jpg)
 
-![Hand 1](1.png)
-
-![Hand 1](2.png)
-
-![Hand 1](3.png)
-
-![Hand 1](4.png)
-
-![Hand 1](5.png)
-
-![Hand 1](6.png)
-
-![Hand 1](7.png)
-
-![Hand 1](8.png)
-
-![Hand 1](9.png)
-
-![Hand 1](10.png)
-
 ---
 
 ## Features
