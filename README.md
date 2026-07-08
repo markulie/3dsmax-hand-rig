@@ -12,7 +12,7 @@ This rig was originally made in **2015** as a personal project and is now releas
 
 ## Preview
 
-![Hand Poses](images/mark_hunanyan_handrig_01.jpg)
+![Hand Poses](1.png)
 
 ![Rig Overview](images/mark_hunanyan_handrig_02.jpg)
 
